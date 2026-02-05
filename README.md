@@ -1,2 +1,2 @@
 # Git_Learn
-The Git learning tutorial
+The Git learning tutorial.
